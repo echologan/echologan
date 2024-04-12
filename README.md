@@ -1,16 +1,20 @@
-### Hi there 👋
+# Logan James
+---
 
-<!--
-**echologan/echologan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently pursuing a degree in Computer Science, with the goal of transitioning into the tech industry shortly after graduation. 
 
-Here are some ideas to get you started:
+### What I'm Focused On:
+- Learning: Currently diving deep into Java and building homelabs tinkering with network security.
+- Projects: Working on a personal project that leverages APIs to create a user-friendly experience on web platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- **Programming Languages**: Proficient in Python and JavaScript
+- **Tools**: Familiar with Git, VSCode, and basic Docker usage
+- **Soft Skills**: Strong problem-solving skills, eager collaborator, and quick learner
+
+### Connect with Me
+- **Email**: [your.email@example.com](mailto:echologanjames@protonmail.com)
+- **website**: echologan.com 
+
+I am currently open to internships, collaborative projects, and any learning opportunities in the field. Feel free to reach out if you have advice, opportunities, or just want to connect!
+
