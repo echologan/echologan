@@ -1,7 +1,7 @@
 # Logan James
 ---
 
-I am currently pursuing a degree in Computer Science, with the goal of transitioning into the tech industry shortly after graduation. 
+I am currently pursuing a degree in Computer Science. We are what we repeatedly do. Excellence, then, is not an act, but a habit.
 
 ### What I'm Focused On:
 - Learning: Currently diving deep into Java and building homelabs tinkering with network security.
