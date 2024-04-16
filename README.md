@@ -1,12 +1,6 @@
 # Logan James
 ---
 
-I am currently pursuing a degree in Computer Science. We are what we repeatedly do. Excellence, then, is not an act, but a habit.
-
-### What I'm Focused On:
-- Learning: Currently diving deep into Java and chipping away at my classes.
-- Projects: Working on a personal project that leverages APIs to create a user-friendly experience on web platforms.
-
 ### Connect with Me
 - **Email**: [echologanjames@protonmail.com](mailto:echologanjames@protonmail.com)
 - **website**: [echologan.com](https://www.echologan.com)
